@@ -3,6 +3,7 @@ backend:
   repo: gtodd876/gatsby-test
 
 media_folder: static/assets
+public_folder: /assets
 
 collections: 
   - name: post
