@@ -3,7 +3,7 @@ module.exports = {
     title: 'Epic West Company',
     desc: 'Modern Construction based in Denver, CO',
   },
-  pathPrefix: '/gatsby-test',
+  pathPrefix: '/gatsby-blog-test',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
